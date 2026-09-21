@@ -145,7 +145,7 @@ Actores ──► Presentación ──► Lógica de negocio ──► Datos
 
 ---
 
-### Diagrama Mermaid (se renderiza en GitHub y VS Code)
+### Diagrama Mermaid
 
 ```mermaid
 flowchart TD
