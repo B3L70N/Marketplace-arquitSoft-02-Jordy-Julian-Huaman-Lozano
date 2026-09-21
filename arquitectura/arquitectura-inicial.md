@@ -88,6 +88,8 @@ Actores ──► Presentación ──► Lógica de negocio ──► Datos
 | Sistemas externos | Pasarela de pago, Servicio de envío, ERP |
 
 ---
+### Diagrama General
+![Texto alternativo](capturas/cap-2.png)
 
 ### Diagrama ASCII
 
@@ -201,6 +203,8 @@ flowchart TD
 ```
 
 ---
+
+
 
 ## Decisiones arquitectónicas clave
 
