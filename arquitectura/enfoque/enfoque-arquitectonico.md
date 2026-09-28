@@ -62,4 +62,4 @@ flowchart TD
 
 ## Diagrama del enfoque arquitectónico
 
-![Enfoque arquitectónico](../capturas/ENFOQUE-ARQUIT.png)
+![Enfoque arquitectónico](../../capturas/ENFOQUE-ARQUIT.png)
