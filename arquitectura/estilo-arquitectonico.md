@@ -98,7 +98,7 @@ flowchart TD
 
 ## Diagrama de estructura global
 
-![Estructura global del sistema](../capturas/ESTRUCTURA-GLOBAL-SISTEMA.jpg)
+![Estructura global del sistema](../capturas/ESTRUCTURA-GLOBAL-SISTEMA.png)
 
 ---
 
