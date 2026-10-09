@@ -89,7 +89,7 @@ Actores ──► Presentación ──► Lógica de negocio ──► Datos
 
 ---
 ### Diagrama General
-![Diagrama General](../../capturas/cap-2.png)
+![Diagrama General](../capturas/cap-2.png)
 
 ### Diagrama ASCII
 
